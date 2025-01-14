@@ -13,7 +13,7 @@
 
 <urn:jeremy.salwen:plugins:talentedhack> a lv2:Plugin ;
   a lv2:Plugin, lv2:PitchPlugin;
-  lv2:binary <talentedhack.so>;
+  lv2:binary <talentedhack.dylib>;
   doap:name "TalentedHack";
   doap:developer [
       foaf:name "Tom Baran";

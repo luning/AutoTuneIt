@@ -2,5 +2,5 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 <urn:jeremy.salwen:plugins:talentedhack> a lv2:Plugin ;
-                                        lv2:binary   <talentedhack.so>  ;
+                                        lv2:binary   <talentedhack.dylib>  ;
                                         rdfs:seeAlso <talentedhack.ttl> .
